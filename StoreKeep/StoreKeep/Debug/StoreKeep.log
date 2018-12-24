@@ -1,1 +1,4 @@
-﻿  StoreKeep.vcxproj -> C:\Users\ABBG\Desktop\GITHUB\CourseProject\StoreKeep\StoreKeep\Debug\StoreKeep.exe
+﻿  StoreKeep.cpp
+C:\Users\ABBG\Desktop\GITHUB\CourseProject\StoreKeep\StoreKeep\StoreKeep.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ABBG\Desktop\GITHUB\CourseProject\StoreKeep\StoreKeep\StoreKeep.cpp(86): warning C4018: <: несоответствие типов со знаком и без знака
+  StoreKeep.vcxproj -> C:\Users\ABBG\Desktop\GITHUB\CourseProject\StoreKeep\StoreKeep\Debug\StoreKeep.exe
